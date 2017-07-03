@@ -61,8 +61,6 @@ public class Servlet extends HttpServlet {
             
             dataFinal = (Dia + "/" + Mes + "/" + Ano);
         }
-        
-        System.out.println("Gravado");
 
     }
 
